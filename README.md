@@ -1,2 +1,3 @@
 this is first file in git
 test branch......
+Creating a New branch is quick AND simple.
